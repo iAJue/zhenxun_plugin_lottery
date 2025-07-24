@@ -10,7 +10,7 @@ from zhenxun.utils.message import MessageUtils
 
 __plugin_meta__ = PluginMetadata(
     name="群抽奖禁言",
-    description="参与抽奖，被随机禁言",
+    description="参与抽奖，被随机禁言, 禁言时长1-8小时, 我看看哪些人这么贱",
     usage="""
     指令：
       - 抽奖                 (直接参与抽奖并被随机禁言)
